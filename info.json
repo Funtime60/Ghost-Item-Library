@@ -1,9 +1,9 @@
 {
-  "name": "Ghost-Item-Utilities",
+  "name": "Ghost-Item-Library",
   "version": "0.0.1",
-  "title": "Ghost Item Utilities",
+  "title": "Ghost Item Library",
   "author": "Funtime60",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
-  "description": "A utility/library mod for interacting with ghost items in factorio."
+  "description": "A library mod for interacting with ghost items in factorio."
 }

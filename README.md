@@ -1,2 +1,2 @@
-# Ghost-Item-Utilities
-A utility/library mod for interacting with ghost items in factorio.
+# Ghost-Item-Library
+A library mod for interacting with ghost items in factorio.
