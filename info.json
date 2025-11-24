@@ -1,9 +1,9 @@
 {
-  "name": "Factorio-Mod-Template",
+  "name": "Ghost-Item-Utilities",
   "version": "0.0.1",
-  "title": "Factorio Mod Template",
+  "title": "Ghost Item Utilities",
   "author": "Funtime60",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
-  "description": "A template repository of a factorio mod repository. Don't forget to change the name and API key for the mod portal."
+  "description": "A utility/library mod for interacting with ghost items in factorio."
 }
