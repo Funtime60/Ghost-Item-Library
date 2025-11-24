@@ -1,4 +1,4 @@
-local lib = require("__Ghost-Item-Utilities__.lib")
+local lib = require("__Ghost-Item-Library__.lib")
 
 
 lib.register_selector_all(function(event)
